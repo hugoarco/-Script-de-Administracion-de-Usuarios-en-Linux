@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Copyright (c) 2026 Hugo Arco
 echo "Esta es la parte 1"
 
 while IFS= read -r nombre
